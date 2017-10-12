@@ -1,22 +1,22 @@
-# Ê¹ÓÃMFCµÄCDCÀà»æÖÆ¶şÎ¬×ø±êÏµ¼°ÕıÓàÏÒº¯Êı
+# ä½¿ç”¨MFCçš„CDCç±»ç»˜åˆ¶äºŒç»´åæ ‡ç³»åŠæ­£ä½™å¼¦å‡½æ•°
 
-## ÏµÁĞÁ´½Ó
+## ç³»åˆ—é“¾æ¥
 
-* [Ê¹ÓÃMFCµÄCDCÀà»æÖÆ¶şÎ¬×ø±êÏµ¼°ÕıÓàÏÒº¯Êı]() / [Ô´Âë]()
+* [ä½¿ç”¨MFCçš„CDCç±»ç»˜åˆ¶äºŒç»´åæ ‡ç³»åŠæ­£ä½™å¼¦å‡½æ•°](https://blog.huihut.com/2017/10/13/GraphicsExercise2D/) / [æºç ](https://github.com/huihut/GraphicsExercise2D)
 
-* [Ê¹ÓÃMFCµÄCDCÀà»æÖÆÈıÎ¬×ø±êÏµ¼°ÇòÃæº¯Êı]() / [Ô´Âë]()
+* [ä½¿ç”¨MFCçš„CDCç±»ç»˜åˆ¶ä¸‰ç»´åæ ‡ç³»åŠçƒé¢å‡½æ•°](https://blog.huihut.com/2017/10/13/GraphicsExercise3D/) / [æºç ](https://github.com/huihut/GraphicsExercise3D)
 
-## ¸ÅÊö
+## æ¦‚è¿°
 
-±¾ÎÄÊ¹ÓÃMFCµÄCDCÀà»æÖÆ¶şÎ¬×ø±êÏµ¼°ÕıÓàÏÒº¯Êı£¬¿ÉÒÔ½øĞĞ×ø±ê±ä»»¡¢¹æÄ£±ä»»£¬¿ÉÒÔÉèÖÃ»æÖÆµÄº¯Êı¡£Í¨¹ıÊäÈë×Ô±äÁ¿µÄ·¶Î§¼°²½³¤£¬»æÖÆ³öÏàÓ¦µÄº¯ÊıÍ¼ĞÎ¡£
+æœ¬æ–‡ä½¿ç”¨MFCçš„CDCç±»ç»˜åˆ¶äºŒç»´åæ ‡ç³»åŠæ­£ä½™å¼¦å‡½æ•°ï¼Œå¯ä»¥è¿›è¡Œåæ ‡å˜æ¢ã€è§„æ¨¡å˜æ¢ï¼Œå¯ä»¥è®¾ç½®ç»˜åˆ¶çš„å‡½æ•°ã€‚é€šè¿‡è¾“å…¥è‡ªå˜é‡çš„èŒƒå›´åŠæ­¥é•¿ï¼Œç»˜åˆ¶å‡ºç›¸åº”çš„å‡½æ•°å›¾å½¢ã€‚
 
-## ĞÂ½¨ÏîÄ¿
+## æ–°å»ºé¡¹ç›®
 
-`Visual Studio`- `ĞÂ½¨ÏîÄ¿` - `MFCÓ¦ÓÃ³ÌĞò` - ÃüÃûÎª`CGraphicsExercise2D` - `È·¶¨` - `ÏÂÒ»²½` - Ó¦ÓÃ³ÌĞòÀàĞÍÑ¡Ôñ`µ¥¸öÎÄµµ` - `Íê³É`
+`Visual Studio`- `æ–°å»ºé¡¹ç›®` - `MFCåº”ç”¨ç¨‹åº` - å‘½åä¸º`CGraphicsExercise2D` - `ç¡®å®š` - `ä¸‹ä¸€æ­¥` - åº”ç”¨ç¨‹åºç±»å‹é€‰æ‹©`å•ä¸ªæ–‡æ¡£` - `å®Œæˆ`
 
-## »æÖÆº¯Êı
+## ç»˜åˆ¶å‡½æ•°
 
-Visual StudioÎªÎÒÃÇ´´½¨ÁËºÜ¶àÎŞÓÃµÄ´úÂë£¬¶øÎÒÃÇµÄ»æÖÆº¯ÊıÔÚÔÚ`CGraphicsExercise2DView.cpp`µÄ
+Visual Studioä¸ºæˆ‘ä»¬åˆ›å»ºäº†å¾ˆå¤šæ— ç”¨çš„ä»£ç ï¼Œè€Œæˆ‘ä»¬çš„ç»˜åˆ¶å‡½æ•°åœ¨åœ¨`CGraphicsExercise2DView.cpp`çš„
 
     void CGraphicsExercise2DView::OnDraw(CDC* /*pDC*/)
     {
@@ -25,31 +25,31 @@ Visual StudioÎªÎÒÃÇ´´½¨ÁËºÜ¶àÎŞÓÃµÄ´úÂë£¬¶øÎÒÃÇµÄ»æÖÆº¯ÊıÔÚÔÚ`CGraphicsExercise2
       if (!pDoc)
       return;
 
-      // TODO: ÔÚ´Ë´¦Îª±¾»úÊı¾İÌí¼Ó»æÖÆ´úÂë
+      // TODO: åœ¨æ­¤å¤„ä¸ºæœ¬æœºæ•°æ®æ·»åŠ ç»˜åˆ¶ä»£ç 
     }
 
-È¡Ïû`pDC`µÄ×¢ÊÍ£¬±ä³É
+å–æ¶ˆ`pDC`çš„æ³¨é‡Šï¼Œå˜æˆ
 
     void CGraphicsExercise2DView::OnDraw(CDC* pDC)
 
-ÔÚ
+åœ¨
 
-    // TODO: ÔÚ´Ë´¦Îª±¾»úÊı¾İÌí¼Ó»æÖÆ´úÂë
+    // TODO: åœ¨æ­¤å¤„ä¸ºæœ¬æœºæ•°æ®æ·»åŠ ç»˜åˆ¶ä»£ç 
 
-ÏÂÃæ±àĞ´Äã×Ô¼ºµÄ³ÌĞò£¬Èç»­Ò»ÌõÏß£º
+ä¸‹é¢ç¼–å†™ä½ è‡ªå·±çš„ç¨‹åºï¼Œå¦‚ç”»ä¸€æ¡çº¿ï¼š
 
-    pDC->MoveTo(20, 30);    // »­±ÊÒÆµ½´Ó×óÉÏ½ÇÍùÓÒ20ÏñËØ¡¢ÍùÏÂ30ÏñËØ
-    pDC->LineTo(100, 100);    // »­Ò»ÌõÏßµ½ÓÒ100¡¢ÏÂ100µÄÎ»ÖÃ
+    pDC->MoveTo(20, 30);    // ç”»ç¬”ç§»åˆ°ä»å·¦ä¸Šè§’å¾€å³20åƒç´ ã€å¾€ä¸‹30åƒç´ 
+    pDC->LineTo(100, 100);    // ç”»ä¸€æ¡çº¿åˆ°å³100ã€ä¸‹100çš„ä½ç½®
 
-ÔËĞĞÏÂ¿´ÏÂĞ§¹û°É£¡
+è¿è¡Œä¸‹çœ‹ä¸‹æ•ˆæœå§ï¼
 
-ÏÖÔÚÉ¾µôÉÏÃæÁ½ĞĞÄÇÌõÏß£¬¿ªÊ¼ÕıÊ½±àĞ´¶şÎ¬×ø±êÏµÁË¡£
+ç°åœ¨åˆ æ‰ä¸Šé¢ä¸¤è¡Œé‚£æ¡çº¿ï¼Œå¼€å§‹æ­£å¼ç¼–å†™äºŒç»´åæ ‡ç³»äº†ã€‚
 
-## ¹æÄ£±ä»»º¯Êı
+## è§„æ¨¡å˜æ¢å‡½æ•°
 
-ÉÏÃæµÄ`MoveTo(20, 30)`ÖĞµÄ20¡¢30ÊÇÔÚÏÔÊ¾Æ÷ÉÏµÄÏñËØµã£¬Èç¹û»æÖÆµÄ×ø±êÏµÊÇÒÔÏñËØÎª´óĞ¡µÄ»°£¬ÄÇ1¡¢2ÕâÑùĞ¡µÄµ¥Î»ÔÚÏÔÊ¾Æ÷ÉÏ¾ÍÄÑÒÔ¿´µ½£¬Òò´ËĞèÒª¹æÄ£±ä»»¡£Í¨³£ÊÇ°ÑĞ¡µ¥Î»³ËÉÏ·Å´ó¹æÄ££¨±¶Êı£©¾Í¿ÉÒÔÁË¡£
+ä¸Šé¢çš„`MoveTo(20, 30)`ä¸­çš„20ã€30æ˜¯åœ¨æ˜¾ç¤ºå™¨ä¸Šçš„åƒç´ ç‚¹ï¼Œå¦‚æœç»˜åˆ¶çš„åæ ‡ç³»æ˜¯ä»¥åƒç´ ä¸ºå¤§å°çš„è¯ï¼Œé‚£1ã€2è¿™æ ·å°çš„å•ä½åœ¨æ˜¾ç¤ºå™¨ä¸Šå°±éš¾ä»¥çœ‹åˆ°ï¼Œå› æ­¤éœ€è¦è§„æ¨¡å˜æ¢ã€‚é€šå¸¸æ˜¯æŠŠå°å•ä½ä¹˜ä¸Šæ”¾å¤§è§„æ¨¡ï¼ˆå€æ•°ï¼‰å°±å¯ä»¥äº†ã€‚
 
-ÔÚ`CGraphicsExercise2DView.h`
+åœ¨`CGraphicsExercise2DView.h`
 
     public:
       void SetScale(int scale);
@@ -58,58 +58,58 @@ Visual StudioÎªÎÒÃÇ´´½¨ÁËºÜ¶àÎŞÓÃµÄ´úÂë£¬¶øÎÒÃÇµÄ»æÖÆº¯ÊıÔÚÔÚ`CGraphicsExercise2
     private:
   	  int scale;
 
-ÔÚ`CGraphicsExercise2DView.cpp`
+åœ¨`CGraphicsExercise2DView.cpp`
 
 
-    // ÉèÖÃ¹æÄ£
+    // è®¾ç½®è§„æ¨¡
     void CGraphicsExercise2DView::SetScale(int scale)
     {
       this->scale = scale;
     }
 
-    // ±ä»»¹æÄ£
+    // å˜æ¢è§„æ¨¡
     float CGraphicsExercise2DView::TransformScale(float num)
     {
       return num * scale;
     }
 
-²¢ÔÚ`CGraphicsExercise2DView()`º¯ÊıÌí¼Ó
+å¹¶åœ¨`CGraphicsExercise2DView()`å‡½æ•°æ·»åŠ 
 
-    // ÉèÖÃ¹æÄ£±ÈÀı
+    // è®¾ç½®è§„æ¨¡æ¯”ä¾‹
     SetScale(70);
 
-## ±ä»»×ø±êºÍ¹æÄ£
+## å˜æ¢åæ ‡å’Œè§„æ¨¡
 
-ÔÚ`CGraphicsExercise2DView.h`
+åœ¨`CGraphicsExercise2DView.h`
 
     public:
       float TransformCoordinateScaleX(float x);
       float TransformCoordinateScaleY(float y);
 
-ÔÚ`CGraphicsExercise2DView.cpp`
+åœ¨`CGraphicsExercise2DView.cpp`
 
-    // ±ä»»xµÄ×ø±êºÍ¹æÄ£
+    // å˜æ¢xçš„åæ ‡å’Œè§„æ¨¡
     float CGraphicsExercise2DView::TransformCoordinateScaleX(float x)
     {
 	     return TransformScale(x + 2);
     }
 
-    // ±ä»»yµÄ×ø±êºÍ¹æÄ£
+    // å˜æ¢yçš„åæ ‡å’Œè§„æ¨¡
     float CGraphicsExercise2DView::TransformCoordinateScaleY(float y)
     {
 	     return TransformScale(y + 4);
     }
 
-## ÉèÖÃ»æÖÆµÄº¯ÊıÀàĞÍ
+## è®¾ç½®ç»˜åˆ¶çš„å‡½æ•°ç±»å‹
 
-ÔÚ`CGraphicsExercise2DView.h`
+åœ¨`CGraphicsExercise2DView.h`
 
-ÀàÍâÃæ¶¨Òå
+ç±»å¤–é¢å®šä¹‰
 
-    // Ö§³Ö»æÖÆµÄº¯ÊıÀàĞÍ
+    // æ”¯æŒç»˜åˆ¶çš„å‡½æ•°ç±»å‹
     enum Function { Sin, Cos };
 
-ÀàÀïÃæ¶¨Òå
+ç±»é‡Œé¢å®šä¹‰
 
     public:
       void SetDrawFunction(Function fun);
@@ -117,26 +117,26 @@ Visual StudioÎªÎÒÃÇ´´½¨ÁËºÜ¶àÎŞÓÃµÄ´úÂë£¬¶øÎÒÃÇµÄ»æÖÆº¯ÊıÔÚÔÚ`CGraphicsExercise2
     private:
       Function fun;
 
-ÔÚ`GraphicsExerciseView.cpp`
+åœ¨`GraphicsExerciseView.cpp`
 
     #include <math.h>
 
-    // ÉèÖÃ»æÖÆµÄº¯Êı
+    // è®¾ç½®ç»˜åˆ¶çš„å‡½æ•°
     void CGraphicsExercise2DView::SetDrawFunction(Function fun)
     {
 	    this->fun = fun;
     }
 
-²¢ÔÚ`CGraphicsExercise2DView()`º¯ÊıÌí¼Ó
+å¹¶åœ¨`CGraphicsExercise2DView()`å‡½æ•°æ·»åŠ 
 
-    // ÉèÖÃ»æÖÆµÄº¯Êı
+    // è®¾ç½®ç»˜åˆ¶çš„å‡½æ•°
     SetDrawFunction(Sin);
 
-## º¯Êı·¶Î§ºÍ²½³¤
+## å‡½æ•°èŒƒå›´å’Œæ­¥é•¿
 
-ÉèÖÃÕıÓàÏÒº¯ÊıµÄxÈ¡Öµ·¶Î§Èç`[0, 2*¦Ğ]`£¬ÉèÖÃxµÄÈ¡Ñù²½³¤Èç`0.01`¡£
+è®¾ç½®æ­£ä½™å¼¦å‡½æ•°çš„xå–å€¼èŒƒå›´å¦‚`[0, 2*Ï€]`ï¼Œè®¾ç½®xçš„å–æ ·æ­¥é•¿å¦‚`0.01`ã€‚
 
-ÔÚ`CGraphicsExercise2DView.h`
+åœ¨`CGraphicsExercise2DView.h`
 
     public:
       void SetPlotSin(float startX, float endX, float step);
@@ -144,9 +144,9 @@ Visual StudioÎªÎÒÃÇ´´½¨ÁËºÜ¶àÎŞÓÃµÄ´úÂë£¬¶øÎÒÃÇµÄ»æÖÆº¯ÊıÔÚÔÚ`CGraphicsExercise2
     private:
       float startX, endX, step;
 
-ÔÚ`CGraphicsExercise2DView.cpp`
+åœ¨`CGraphicsExercise2DView.cpp`
 
-    // ÉèÖÃ·¶Î§ºÍ²½³¤
+    // è®¾ç½®èŒƒå›´å’Œæ­¥é•¿
     void CGraphicsExercise2DView::SetPlotSin(float startX, float endX, float step)
     {
 	     this->startX = startX;
@@ -154,51 +154,51 @@ Visual StudioÎªÎÒÃÇ´´½¨ÁËºÜ¶àÎŞÓÃµÄ´úÂë£¬¶øÎÒÃÇµÄ»æÖÆº¯ÊıÔÚÔÚ`CGraphicsExercise2
 	     this->step = step;
     }
 
-²¢ÔÚ`CGraphicsExercise2DView()`º¯ÊıÌí¼Ó
+å¹¶åœ¨`CGraphicsExercise2DView()`å‡½æ•°æ·»åŠ 
 
-    // ÉèÖÃ×Ô±äÁ¿x·¶Î§[startX, endX]¡¢È¡Ñù²½³¤step
+    // è®¾ç½®è‡ªå˜é‡xèŒƒå›´[startX, endX]ã€å–æ ·æ­¥é•¿step
     SetPlotSin((float)0.0, (float)6.3, (float)0.01);
 
 
-## »æÖÆ×ø±êÏµ
+## ç»˜åˆ¶åæ ‡ç³»
 
-×ø±êÏµÊÇ¾àÀë×óÉÏ½ÇÓÒÏÂ¸÷2 \* ¹æÄ£¸öÏñËØ¿ªÊ¼»æÖÆµÄ£¨¼´yÖáµÄ¶¥µãÊÇ£¨2 \* ·Å´ó¹æÄ£, 2 \* ·Å´ó¹æÄ££©£©
+åæ ‡ç³»æ˜¯è·ç¦»å·¦ä¸Šè§’å³ä¸‹å„2 \* è§„æ¨¡ä¸ªåƒç´ å¼€å§‹ç»˜åˆ¶çš„ï¼ˆå³yè½´çš„é¡¶ç‚¹æ˜¯ï¼ˆ2 \* æ”¾å¤§è§„æ¨¡, 2 \* æ”¾å¤§è§„æ¨¡ï¼‰ï¼‰
 
-ÔÚ`OnDraw()`º¯ÊıµÄ`// TODO: ÔÚ´Ë´¦Îª±¾»úÊı¾İÌí¼Ó»æÖÆ´úÂë`ÏÂÃæÌí¼ÓÈçÏÂ´úÂë
+åœ¨`OnDraw()`å‡½æ•°çš„`// TODO: åœ¨æ­¤å¤„ä¸ºæœ¬æœºæ•°æ®æ·»åŠ ç»˜åˆ¶ä»£ç `ä¸‹é¢æ·»åŠ å¦‚ä¸‹ä»£ç 
 
 ```
-// -------------------- »æÖÆ×ø±êÏµ -------------------------
+// -------------------- ç»˜åˆ¶åæ ‡ç³» -------------------------
 
 float endPointX = 2 + endX + 2;
 
-// ×ø±êyÖá
+// åæ ‡yè½´
 pDC->MoveTo((int)TransformScale(2), (int)TransformScale(2));
 pDC->LineTo((int)TransformScale(2), (int)TransformScale(6));
 
-// ×ø±êxÖá
+// åæ ‡xè½´
 pDC->MoveTo((int)TransformScale(2), (int)TransformScale(4));
 pDC->LineTo((int)TransformScale(endPointX), (int)TransformScale(4));
 
-// ×ø±êyÖáµÄ¼ıÍ·
+// åæ ‡yè½´çš„ç®­å¤´
 pDC->MoveTo((int)TransformScale((float)1.8), (int)TransformScale((float)2.2));
 pDC->LineTo((int)TransformScale(2), (int)TransformScale(2));
 pDC->LineTo((int)TransformScale((float)2.2), (int)TransformScale((float)2.2));
 
-// ×ø±êxÖáµÄ¼ıÍ·
+// åæ ‡xè½´çš„ç®­å¤´
 pDC->MoveTo((int)TransformScale(endPointX - (float)0.2), (int)TransformScale((float)3.8));
 pDC->LineTo((int)TransformScale(endPointX), (int)TransformScale(4));
 pDC->LineTo((int)TransformScale(endPointX - (float)0.2), (int)TransformScale((float)4.2));
 
-// -------------------- »æÖÆ¿Ì¶ÈÏß -------------------------
+// -------------------- ç»˜åˆ¶åˆ»åº¦çº¿ -------------------------
 
-// »æÖÆyÖá¿Ì¶ÈÏß
+// ç»˜åˆ¶yè½´åˆ»åº¦çº¿
 for (float scaleY = 3; scaleY <= 5; scaleY += 0.2)
 {
   pDC->MoveTo((int)TransformScale(2), (int)TransformScale(scaleY));
   pDC->LineTo((int)TransformScale((float)2.1), (int)TransformScale(scaleY));
 }
 
-// »æÖÆxÖá¿Ì¶ÈÏß
+// ç»˜åˆ¶xè½´åˆ»åº¦çº¿
 for (float scaleX = 2.2; scaleX < endPointX - 1; scaleX += 0.2)
 {
   pDC->MoveTo((int)TransformScale(scaleX), (int)TransformScale(4));
@@ -206,30 +206,30 @@ for (float scaleX = 2.2; scaleX < endPointX - 1; scaleX += 0.2)
 }
 
 
-// -------------------- »æÖÆÎÄ×Ö -------------------------
+// -------------------- ç»˜åˆ¶æ–‡å­— -------------------------
 
-// »æÖÆyÖáµÄy
+// ç»˜åˆ¶yè½´çš„y
 pDC->TextOutW((int)TransformScale(1.8), (int)TransformScale(2.3), CString("y"));
-// »æÖÆxÖáµÄx
+// ç»˜åˆ¶xè½´çš„x
 pDC->TextOutW((int)TransformScale(endPointX - (float)0.5), (int)TransformScale(4.1), CString("x"));
 
 CString s;
-// »æÖÆyÖá¿Ì¶ÈÎÄ×Ö
+// ç»˜åˆ¶yè½´åˆ»åº¦æ–‡å­—
 for (float ScaleTextY = 2.9, text = 1.0; ScaleTextY <= 4.9; ScaleTextY += 0.2, text -= 0.2)
 {
   s.Format(_T("%.1f"), text);
   pDC->TextOutW((int)TransformScale(1.6), (int)TransformScale(ScaleTextY), s);
 }
 
-// »æÖÆxÖá¿Ì¶ÈÎÄ×Ö
+// ç»˜åˆ¶xè½´åˆ»åº¦æ–‡å­—
 for (float ScaleTextX = 2.3; ScaleTextX < endPointX - 1; ScaleTextX += 0.4)
 {
   s.Format(_T("%.1f"), ScaleTextX - 1.9);
   pDC->TextOutW((int)TransformScale(ScaleTextX), (int)TransformScale(4.1), s);
 }
 
-// »æÖÆº¯ÊıÍ¼µÄTitle
-// ÅĞ¶Ïµ÷ÓÃµÄº¯Êı
+// ç»˜åˆ¶å‡½æ•°å›¾çš„Title
+// åˆ¤æ–­è°ƒç”¨çš„å‡½æ•°
 switch (fun)
 {
 case Sin:
@@ -243,21 +243,21 @@ default:
 }
 ```
 
-## »æÖÆº¯Êı
+## ç»˜åˆ¶å‡½æ•°
 
-x´ÓstartX»æÖÆµ½endX£¬Ã¿¼ä¸ôstep»æÖÆÒ»´Î¡£
+xä»startXç»˜åˆ¶åˆ°endXï¼Œæ¯é—´éš”stepç»˜åˆ¶ä¸€æ¬¡ã€‚
 
-Ò²ÊÇÔÚ`OnDraw()`º¯ÊıÏÂÃæÌí¼Ó
+ä¹Ÿæ˜¯åœ¨`OnDraw()`å‡½æ•°ä¸‹é¢æ·»åŠ 
 
 ```
-// -------------------- »æÖÆº¯Êı -------------------------
+// -------------------- ç»˜åˆ¶å‡½æ•° -------------------------
 
-// ²»¸Ä±ä×ø±êºÍ¹æÄ£µÄxy
+// ä¸æ”¹å˜åæ ‡å’Œè§„æ¨¡çš„xy
 float x, y;
 
 for (x = startX; x <= endX; x += step)
 {
-  // ÅĞ¶Ïµ÷ÓÃµÄº¯Êı
+  // åˆ¤æ–­è°ƒç”¨çš„å‡½æ•°
   switch (fun)
   {
   case Sin:
@@ -270,11 +270,11 @@ for (x = startX; x <= endX; x += step)
     break;
   }
 
-  // ¶Ôxy¸Ä±ä×ø±êºÍ¹æÄ£ÔÙÏÔÊ¾µã
+  // å¯¹xyæ”¹å˜åæ ‡å’Œè§„æ¨¡å†æ˜¾ç¤ºç‚¹
   pDC->SetPixel((int)TransformCoordinateScaleX(x), (int)TransformCoordinateScaleY(y), 0);
 }
 ```
 
-## Ğ§¹ûÍ¼
+## æ•ˆæœå›¾
 
 ![GraphicsExercise2DCapture](http://ojlsgreog.bkt.clouddn.com/GraphicsExercise2DCapture.png)
