@@ -277,4 +277,4 @@ for (x = startX; x <= endX; x += step)
 
 ## 效果图
 
-![GraphicsExercise2DCapture](http://ojlsgreog.bkt.clouddn.com/GraphicsExercise2DCapture.png)
+![GraphicsExercise2DCapture](http://huihut-img.oss-cn-shenzhen.aliyuncs.com/GraphicsExercise2DCapture.png)
